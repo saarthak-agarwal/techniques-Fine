@@ -1,0 +1,16 @@
+aabbccddaabbccdd
+14
+aa
+.*aa.*
+.abb.
+dd
+ccdd
+.*.*
+.*
+a.*?d
+a.*?dd
+aa...*d
+a*d
+a.*d
+a.*.*?d
+a.*ccdd

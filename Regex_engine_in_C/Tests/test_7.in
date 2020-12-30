@@ -1,0 +1,14 @@
+aabbccdd
+10
+.*aa.*
+ab
+ab.*
+.*ab.*
+.*ab.*?
+.*cc.*
+.*ab.*
+.*bb.*
+.*bc.*
+.*cd.*
+
+

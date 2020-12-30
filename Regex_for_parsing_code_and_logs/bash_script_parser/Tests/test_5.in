@@ -1,0 +1,81 @@
+#!/bin/bash
+
+if [ -f /etc/bashrc ]; then . /etc/bashr; fi
+
+if [ -f /etc/bashrc ];
+ then . /etc/bashr 
+fi
+
+
+if [ -f /etc/bashrc ]; then 
+	. /etc/bashr 
+     fi
+
+
+if [ 10 -ne 11 ]; then 
+	echo "1"
+fi
+
+if [ 10 -ne 11 ]; then 
+	echo "2"; fi
+
+if [ 10 -ne 11 ]; then 
+	echo "3"; 
+fi
+
+if [ 10 -ne 11 ]; 
+then 
+	echo "4"; 
+fi
+
+if [ 10 -ne 11 ] 
+then 
+	echo "5"; 
+fi
+
+
+if [ 10 -ne 11 ] ;then echo "5"; fi
+
+# hello
+
+# this is a comment
+
+echo "hello" # this is a comment
+
+alias a='b'
+alias a='d'
+alias b='c'
+alias c='ls -l'
+
+if [ -f file ]; then # this is a comment
+	if [ -f file ]; then
+		if [ -f file ]; then
+		echo "1"
+		else
+		echo "2"
+		fi
+		echo "3"
+	fi
+	echo "4"
+fi
+
+dummy_function () # this is a comment
+{
+	alias e='f'
+alias g='h'
+	alias f='p'
+alias h='ls -l'
+if [ -f file ]; then
+	echo "1"
+	else
+	echo "2"
+fi
+# this is a comment
+}
+
+dummy_2()
+{
+	# this is a comment
+
+}
+#comment says hello

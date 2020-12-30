@@ -1,0 +1,25 @@
+#!/bin/bash
+alias ae='be'  #COMMENTNR
+alias be='ce' #COMMENTNR
+alias ce='ae' #COMMENTNR
+
+alias aa='bb'  #COMMENTNR
+alias bb='cc' #COMMENTNR
+alias cc='ad' #COMMENTNR
+
+if [ -f /etc/bashrc ]; then
+   . /etc/bashrc
+fi
+
+alias a='b'
+alias b='c'
+alias c='ls -l'
+
+dummy_function ()
+{
+  if [ -f file ]; then
+    echo “1”
+  else
+    echo “2”
+  fi
+}

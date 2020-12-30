@@ -1,0 +1,65 @@
+2020-10-24 22:18:55.919 20593-20593/? I/.example.logge: Late-enabling -Xcheck:jni
+2020-10-24 22:18:56.358 20593-20646/? I/.example.logge: The ClassLoaderContext is a special shared library.
+2020-10-24 22:18:56.656 20593-20593/com.example.loggen I/Perf: Connecting to perf service.
+2020-10-24 22:18:56.988 20593-20593/com.example.loggen W/.example.logge: create CommonDcsHelper
+2020-10-24 22:18:56.989 20593-20593/com.example.loggen W/.example.logge: cacheJniMembers success
+2020-10-24 22:18:56.989 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:56.989 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:56.989 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:56.992 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:56.992 20593-20593/com.example.loggen W/.example.logge: Accessing hidden method Landroid/graphics/drawable/Drawable;->getOpticalInsets()Landroid/graphics/Insets; (light greylist, linking)
+2020-10-24 22:18:56.992 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:56.992 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:56.992 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:56.994 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:56.994 20593-20593/com.example.loggen W/.example.logge: Accessing hidden field Landroid/graphics/Insets;->left:I (light greylist, linking)
+2020-10-24 22:18:56.994 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:56.995 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:56.995 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:56.997 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:56.997 20593-20593/com.example.loggen W/.example.logge: Accessing hidden field Landroid/graphics/Insets;->right:I (light greylist, linking)
+2020-10-24 22:18:56.997 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:56.997 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:56.997 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:57.002 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:57.002 20593-20593/com.example.loggen W/.example.logge: Accessing hidden field Landroid/graphics/Insets;->top:I (light greylist, linking)
+2020-10-24 22:18:57.002 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:57.002 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:57.002 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:57.007 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:57.007 20593-20593/com.example.loggen W/.example.logge: Accessing hidden field Landroid/graphics/Insets;->bottom:I (light greylist, linking)
+2020-10-24 22:18:57.623 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:57.624 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:57.624 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:57.626 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:57.626 20593-20593/com.example.loggen W/.example.logge: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2020-10-24 22:18:57.629 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:57.629 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:57.629 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:57.631 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:57.631 20593-20593/com.example.loggen W/.example.logge: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2020-10-24 22:18:57.677 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: start
+2020-10-24 22:18:57.677 20593-20593/com.example.loggen W/.example.logge: constructJavaHashMap: end
+2020-10-24 22:18:57.678 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: start
+2020-10-24 22:18:57.687 20593-20593/com.example.loggen W/.example.logge: sendCommonDcs: end
+2020-10-24 22:18:57.687 20593-20593/com.example.loggen W/.example.logge: Accessing hidden method Landroid/widget/TextView;->getTextDirectionHeuristic()Landroid/text/TextDirectionHeuristic; (light greylist, linking)
+2020-10-24 22:18:57.792 20593-20593/com.example.loggen D/[TESTAPP]: Starting Service Abc
+2020-10-24 22:18:57.793 20593-20593/com.example.loggen D/[TESTAPP]: Starting Service Def
+2020-10-24 22:18:57.828 20593-20593/com.example.loggen D/OpenGLRenderer: Skia GL Pipeline
+2020-10-24 22:18:57.989 20593-20593/com.example.loggen D/WindowManager: Add to mViews: DecorView@990d107[MainActivity], this = android.view.WindowManagerGlobal@4c35234,pkg=com.example.loggen
+2020-10-24 22:18:58.121 20593-20804/com.example.loggen I/Adreno: QUALCOMM build                   : 50f1b2d, I1b05bd271c
+    Build Date                       : 04/09/19
+    OpenGL ES Shader Compiler Version: EV031.25.03.03
+    Local Branch                     : 
+    Remote Branch                    : 
+    Remote Branch                    : 
+    Reconstruct Branch               : 
+2020-10-24 22:18:58.121 20593-20804/com.example.loggen I/Adreno: Build Config                     : S L 6.0.7 AArch64
+2020-10-24 22:18:58.136 20593-20804/com.example.loggen I/Adreno: PFP: 0x005ff112, ME: 0x005ff066
+2020-10-24 22:18:58.146 20593-20804/com.example.loggen I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2020-10-24 22:18:58.147 20593-20804/com.example.loggen I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2020-10-24 22:18:58.148 20593-20804/com.example.loggen I/OpenGLRenderer: Initialized EGL, version 1.4
+2020-10-24 22:18:58.148 20593-20804/com.example.loggen D/OpenGLRenderer: Swap behavior 2
+2020-10-24 22:18:58.226 20593-20593/com.example.loggen I/Choreographer: Skipped 4 frames!  The application may be doing too much work on its main thread.
+2020-10-24 22:18:58.793 20593-20801/com.example.loggen D/[TESTAPP]: Ending Service Abc
+2020-10-24 22:18:59.794 20593-20801/com.example.loggen D/[TESTAPP]: Ending Service Def
